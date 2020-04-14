@@ -18,15 +18,6 @@ if (args.length>10){
 	process.exit(1);
 	}
 }
-console.log ("valid input");
-/*const args = process.argv.slice(2);
-if (args.length !==1){
-    console.log('Please pass one single arguement');
-    process.exit(1);
-}   else if (parseInt(args[0])<=0){
-    console.log('please pass a positive arguement');
-    process.exit(1);
-}
 var input = args[0];
 Lastname(input);
 function Lastname (input){
@@ -36,4 +27,4 @@ function Lastname (input){
         console.log('Kyriakos');
     }
 }
-*/
+module.exports = Lastname ; 
