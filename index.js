@@ -27,4 +27,5 @@ function Lastname (input){
         console.log('Kyriakos');
     }
 }
-module.exports = Lastname ; 
+export default Lastname ; 
+//module.exports=Lastname;
