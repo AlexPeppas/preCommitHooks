@@ -1,0 +1,25 @@
+{
+  "name": "precommithook",
+  "version": "1.0.0",
+  "description": "creating pre-commit hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'this is my nth hook'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPeppas/preCommitHooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "pre-commit",
+    "node",
+    "js"
+  ],
+  "author": "AlexPeppas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPeppas/preCommitHooks/issues"
+  },
+  "homepage": "https://github.com/AlexPeppas/preCommitHooks#readme"
+}
